@@ -17,6 +17,9 @@
 
 
 ## Technologies Used
+
 -Laravel
+
 -Tailwind CSS
+
 -alpine js
