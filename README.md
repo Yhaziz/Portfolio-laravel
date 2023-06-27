@@ -15,6 +15,20 @@
 
 ![dash](https://github.com/Yhaziz/Portfolio-laravel/assets/121454985/74a923bb-9d3d-48e6-997f-0516e00f8844)
 
+## Description
+
+Developed a personal portfolio website using Laravel framework, Tailwind
+CSS, and Alpine JS.
+
+User authentication and authorization system.
+
+Dashboard interface to add, edit, and delete skills and projects.
+
+Integration with a MySQL database to store skill and project data.
+
+Leveraged Laravel's routing and MVC architecture to ensure clean and
+organized code
+
 
 ## Technologies Used
 
